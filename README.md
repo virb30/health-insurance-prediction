@@ -1,7 +1,6 @@
 # Previsão de Custo de Seguro de Vida
 
-Nesse projeto realizamos o treinamento de alguns modelos de Machine Learning de regeressão e os comparamos entre si para avaliar qual deles aprensenta o melhor desempenho e performance
-no contexto da Previsão de custo de Seguro de Vida. Os dados foram obtidos do Kaggle https://www.kaggle.com/annetxu/health-insurance-cost-prediction
+Nesse projeto realizamos o treinamento de alguns modelos de Machine Learning de regressão e os comparamos entre si para avaliar qual deles aprensenta o melhor desempenho (tanto em acerto quanto em tempo de execução no contexto de Previsão de custo de Seguro de Vida. Os dados foram obtidos do Kaggle https://www.kaggle.com/annetxu/health-insurance-cost-prediction
 
 Confira o [artigo](#) no blog.
 
